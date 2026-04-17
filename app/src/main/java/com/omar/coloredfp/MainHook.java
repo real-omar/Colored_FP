@@ -13,7 +13,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.mrx7014.s24ultraspoofer;
+package com.omar.coloredfp;
 
 import android.util.Log;
 
